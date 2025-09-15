@@ -3,46 +3,56 @@ package org.firstinspires.ftc.teamcode.Intake;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
 import com.qualcomm.robotcore.hardware.HardwareMap;
-
+import java.util.Timer;
+import java.util.TimerTask;
 
 public class IntakeMotors {
 
-    // Declare private variables for the motor
-    double speed = 0;
+    // Declare variables for the motor
+    double speed = .5;
+    double shootTime = 5;
     boolean running = false;
-
     private DcMotor intakeMotor;
+    Timer timer = new Timer();
 
 
-    public IntakeMotors() {
-        // Constructor, can be left empty
-    }
-
-    public void grabBall(){
-        intakeMotor.setPower(speed);
-        if(checkBall()){
-            //categorize with the color sensor and put it in a slot with the stuff
-            //satvik go go power rangers code that stuff
-        }
-    }
 
     // Initialization method to map hardware
-    public void init(HardwareMap hardwareMap) {
+    public void init2(DcMotor intakeMotor) {
         // Retrieve and initialize motors from the hardware map
-
-        intakeMotor = hardwareMap.dcMotor.get("intakeMotor");
+        this.intakeMotor = intakeMotor;
 
         // Set motor directions based on configuration
         intakeMotor.setDirection(DcMotorSimple.Direction.FORWARD);
     }
 
-    public boolean checkBall(){
+    public void grabBall(){
+        intakeMotor.setPower(speed);
+        System.out.println("Timer Started");
+        timer.schedule(new StopMotor(intakeMotor), 5000);
+    }
+
+   /* public boolean checkBall(){
         //if there is a ball, then we categorize it and do stuff
         return false;
     }
 
     public void changeIntakeStatus(){
         running = !running;
+    }*/
+
+    static class StopMotor extends TimerTask{
+        DcMotor motor;
+
+        StopMotor(DcMotor motor){
+            this.motor = motor;
+        }
+
+        @Override
+        public void run() {
+            motor.setPower(0);
+            System.out.println("Timer has been completed");
+        }
     }
 
 

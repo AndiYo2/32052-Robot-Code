@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/andysmith/Documents/GitHub/32052-Robot-Code/TeamCode/src/main/AndroidManifest.xml:8:1-11:12
-INJECTED from /Users/andysmith/Documents/GitHub/32052-Robot-Code/TeamCode/src/main/AndroidManifest.xml:8:1-11:12
-INJECTED from /Users/andysmith/Documents/GitHub/32052-Robot-Code/TeamCode/src/main/AndroidManifest.xml:8:1-11:12
-INJECTED from /Users/andysmith/Documents/GitHub/32052-Robot-Code/TeamCode/src/main/AndroidManifest.xml:8:1-11:12
-MERGED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-78:12
+ADDED from /Users/andysmith/Documents/GitHub/RobotCode/TeamCode/src/main/AndroidManifest.xml:8:1-11:12
+INJECTED from /Users/andysmith/Documents/GitHub/RobotCode/TeamCode/src/main/AndroidManifest.xml:8:1-11:12
+INJECTED from /Users/andysmith/Documents/GitHub/RobotCode/TeamCode/src/main/AndroidManifest.xml:8:1-11:12
+INJECTED from /Users/andysmith/Documents/GitHub/RobotCode/TeamCode/src/main/AndroidManifest.xml:8:1-11:12
+MERGED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-78:12
 MERGED from [org.firstinspires.ftc:OnBotJava:10.3.0] /Users/andysmith/.gradle/caches/8.9/transforms/def6fcc8289b105ec3a0105ba8c5a6db/transformed/OnBotJava-10.3.0/AndroidManifest.xml:34:1-41:12
 MERGED from [org.firstinspires.ftc:Blocks:10.3.0] /Users/andysmith/.gradle/caches/8.9/transforms/4fbd711615db57146e4364ec95ace236/transformed/Blocks-10.3.0/AndroidManifest.xml:2:1-24:12
 MERGED from [org.firstinspires.ftc:FtcCommon:10.3.0] /Users/andysmith/.gradle/caches/8.9/transforms/81e6240fd54d22ba53e02bd86ec25f87/transformed/FtcCommon-10.3.0/AndroidManifest.xml:3:1-178:12
@@ -78,18 +78,18 @@ MERGED from [com.bylazar:lights:1.0.0] /Users/andysmith/.gradle/caches/8.9/trans
 MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/andysmith/.gradle/caches/8.9/transforms/79871b9702f06cd63f907ec6409d83ef/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
 MERGED from [org.openftc:opencv-repackaged-bundled-dylibs:4.10.0-A] /Users/andysmith/.gradle/caches/8.9/transforms/3507aa29116b22df209ea81291312055/transformed/opencv-repackaged-bundled-dylibs-4.10.0-A/AndroidManifest.xml:2:1-9:12
 	package
-		INJECTED from /Users/andysmith/Documents/GitHub/32052-Robot-Code/TeamCode/src/main/AndroidManifest.xml
+		INJECTED from /Users/andysmith/Documents/GitHub/RobotCode/TeamCode/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/andysmith/Documents/GitHub/32052-Robot-Code/TeamCode/src/main/AndroidManifest.xml
+		INJECTED from /Users/andysmith/Documents/GitHub/RobotCode/TeamCode/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/andysmith/Documents/GitHub/32052-Robot-Code/TeamCode/src/main/AndroidManifest.xml
+		INJECTED from /Users/andysmith/Documents/GitHub/RobotCode/TeamCode/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/andysmith/Documents/GitHub/32052-Robot-Code/TeamCode/src/main/AndroidManifest.xml:9:5-63
+		ADDED from /Users/andysmith/Documents/GitHub/RobotCode/TeamCode/src/main/AndroidManifest.xml:9:5-63
 application
-ADDED from /Users/andysmith/Documents/GitHub/32052-Robot-Code/TeamCode/src/main/AndroidManifest.xml:10:5-19
-INJECTED from /Users/andysmith/Documents/GitHub/32052-Robot-Code/TeamCode/src/main/AndroidManifest.xml:10:5-19
-MERGED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:5-76:19
-MERGED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:5-76:19
+ADDED from /Users/andysmith/Documents/GitHub/RobotCode/TeamCode/src/main/AndroidManifest.xml:10:5-19
+INJECTED from /Users/andysmith/Documents/GitHub/RobotCode/TeamCode/src/main/AndroidManifest.xml:10:5-19
+MERGED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:5-76:19
+MERGED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:5-76:19
 MERGED from [org.firstinspires.ftc:Blocks:10.3.0] /Users/andysmith/.gradle/caches/8.9/transforms/4fbd711615db57146e4364ec95ace236/transformed/Blocks-10.3.0/AndroidManifest.xml:16:5-22:19
 MERGED from [org.firstinspires.ftc:Blocks:10.3.0] /Users/andysmith/.gradle/caches/8.9/transforms/4fbd711615db57146e4364ec95ace236/transformed/Blocks-10.3.0/AndroidManifest.xml:16:5-22:19
 MERGED from [org.firstinspires.ftc:FtcCommon:10.3.0] /Users/andysmith/.gradle/caches/8.9/transforms/81e6240fd54d22ba53e02bd86ec25f87/transformed/FtcCommon-10.3.0/AndroidManifest.xml:21:5-176:19
@@ -119,29 +119,29 @@ MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/andysmith/
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/andysmith/.gradle/caches/8.9/transforms/f1ec0c685fc5d97267c46031ff7ca071/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/andysmith/.gradle/caches/8.9/transforms/f1ec0c685fc5d97267c46031ff7ca071/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		INJECTED from /Users/andysmith/Documents/GitHub/32052-Robot-Code/TeamCode/src/main/AndroidManifest.xml
+		INJECTED from /Users/andysmith/Documents/GitHub/RobotCode/TeamCode/src/main/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] /Users/andysmith/.gradle/caches/8.9/transforms/d97fcbce19cdb39788d20cffec815d7f/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:9-41
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:9-41
 	android:largeHeap
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:9-33
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:9-33
 	android:icon
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:9-45
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:9-45
 	android:allowBackup
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:9-35
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:17:9-45
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:17:9-45
 	android:name
 		ADDED from [org.firstinspires.ftc:RobotCore:10.3.0] /Users/andysmith/.gradle/caches/8.9/transforms/90fa47568eb0186b62f2dbe2e09e5a6b/transformed/RobotCore-10.3.0/AndroidManifest.xml:85:18-97
 	android:usesCleartextTraffic
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:18:9-44
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:18:9-44
 uses-sdk
-INJECTED from /Users/andysmith/Documents/GitHub/32052-Robot-Code/TeamCode/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/andysmith/Documents/GitHub/32052-Robot-Code/TeamCode/src/main/AndroidManifest.xml
-INJECTED from /Users/andysmith/Documents/GitHub/32052-Robot-Code/TeamCode/src/main/AndroidManifest.xml
-MERGED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:5-44
-MERGED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:5-44
+INJECTED from /Users/andysmith/Documents/GitHub/RobotCode/TeamCode/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/andysmith/Documents/GitHub/RobotCode/TeamCode/src/main/AndroidManifest.xml
+INJECTED from /Users/andysmith/Documents/GitHub/RobotCode/TeamCode/src/main/AndroidManifest.xml
+MERGED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:5-44
+MERGED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:5-44
 MERGED from [org.firstinspires.ftc:OnBotJava:10.3.0] /Users/andysmith/.gradle/caches/8.9/transforms/def6fcc8289b105ec3a0105ba8c5a6db/transformed/OnBotJava-10.3.0/AndroidManifest.xml:39:5-44
 MERGED from [org.firstinspires.ftc:OnBotJava:10.3.0] /Users/andysmith/.gradle/caches/8.9/transforms/def6fcc8289b105ec3a0105ba8c5a6db/transformed/OnBotJava-10.3.0/AndroidManifest.xml:39:5-44
 MERGED from [org.firstinspires.ftc:Blocks:10.3.0] /Users/andysmith/.gradle/caches/8.9/transforms/4fbd711615db57146e4364ec95ace236/transformed/Blocks-10.3.0/AndroidManifest.xml:7:5-44
@@ -287,101 +287,101 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/andysmith
 MERGED from [org.openftc:opencv-repackaged-bundled-dylibs:4.10.0-A] /Users/andysmith/.gradle/caches/8.9/transforms/3507aa29116b22df209ea81291312055/transformed/opencv-repackaged-bundled-dylibs-4.10.0-A/AndroidManifest.xml:5:5-7:41
 MERGED from [org.openftc:opencv-repackaged-bundled-dylibs:4.10.0-A] /Users/andysmith/.gradle/caches/8.9/transforms/3507aa29116b22df209ea81291312055/transformed/opencv-repackaged-bundled-dylibs-4.10.0-A/AndroidManifest.xml:5:5-7:41
 	android:targetSdkVersion
-		INJECTED from /Users/andysmith/Documents/GitHub/32052-Robot-Code/TeamCode/src/main/AndroidManifest.xml
+		INJECTED from /Users/andysmith/Documents/GitHub/RobotCode/TeamCode/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/andysmith/Documents/GitHub/32052-Robot-Code/TeamCode/src/main/AndroidManifest.xml
+		INJECTED from /Users/andysmith/Documents/GitHub/RobotCode/TeamCode/src/main/AndroidManifest.xml
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:5-81
+ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:5-81
 	android:name
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:22-78
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:22-78
 meta-data#org.firstinspires.latestSupportedControlHubVersion
-ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:21:9-23:33
+ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:21:9-23:33
 	android:value
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:23:13-30
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:23:13-30
 	android:name
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:13-78
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:13-78
 activity#org.firstinspires.ftc.robotcontroller.internal.PermissionValidatorWrapper
-ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:26:9-37:20
+ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:26:9-37:20
 	android:screenOrientation
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:31:13-49
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:31:13-49
 	android:label
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:29:13-45
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:29:13-45
 	android:launchMode
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:13-44
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:13-44
 	android:configChanges
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:28:13-59
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:28:13-59
 	android:name
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:27:13-101
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:27:13-101
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:32:13-36:29
+ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:32:13-36:29
 category#android.intent.category.LAUNCHER
-ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:33:17-77
+ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:33:27-74
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:33:27-74
 action#android.intent.action.MAIN
-ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:35:17-69
+ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:35:25-66
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:35:25-66
 activity#org.firstinspires.ftc.robotcontroller.internal.FtcRobotControllerActivity
-ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:38:9-56:20
+ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:38:9-56:20
 	android:screenOrientation
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:43:13-49
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:43:13-49
 	android:label
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:41:13-45
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:41:13-45
 	android:launchMode
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:42:13-44
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:42:13-44
 	android:configChanges
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:40:13-59
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:40:13-59
 	android:name
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:39:13-101
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:39:13-101
 intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED
-ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:44:13-46:29
+ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:44:13-46:29
 action#android.hardware.usb.action.USB_DEVICE_ATTACHED
-ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:45:17-90
+ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:45:17-90
 	android:name
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:45:25-87
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:45:25-87
 meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
-ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:48:13-50:57
+ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:48:13-50:57
 	android:resource
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:50:17-54
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:50:17-54
 	android:name
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:49:17-79
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:49:17-79
 meta-data#org.firstinspires.main.entry
-ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:53:13-55:40
+ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:53:13-55:40
 	android:value
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:55:17-37
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:55:17-37
 	android:name
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:54:17-60
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:54:17-60
 service#com.qualcomm.ftccommon.FtcRobotControllerService
-ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:59:9-61:38
+ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:59:9-61:38
 	android:enabled
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:61:13-35
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:61:13-35
 	android:name
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:60:13-76
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:60:13-76
 receiver#org.firstinspires.ftc.ftccommon.internal.RunOnBoot
-ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:64:9-75:20
+ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:64:9-75:20
 	android:enabled
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:66:13-35
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:66:13-35
 	android:exported
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:67:13-36
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:67:13-36
 	android:permission
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:68:13-75
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:68:13-75
 	android:name
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:65:13-78
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:65:13-78
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+category:name:android.intent.category.DEFAULT
-ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:69:13-74:29
+ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:69:13-74:29
 category#android.intent.category.DEFAULT
-ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:70:17-76
+ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:70:17-76
 	android:name
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:70:27-73
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:70:27-73
 action#android.intent.action.BOOT_COMPLETED
-ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:72:17-79
+ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:72:17-79
 	android:name
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:72:25-76
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:72:25-76
 action#android.intent.action.QUICKBOOT_POWERON
-ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:73:17-82
+ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:73:17-82
 	android:name
-		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/32052-Robot-Code/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:73:25-79
+		ADDED from [:FtcRobotController] /Users/andysmith/Documents/GitHub/RobotCode/FtcRobotController/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:73:25-79
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from [org.firstinspires.ftc:Blocks:10.3.0] /Users/andysmith/.gradle/caches/8.9/transforms/4fbd711615db57146e4364ec95ace236/transformed/Blocks-10.3.0/AndroidManifest.xml:9:5-11:35
 MERGED from [org.firstinspires.ftc:FtcCommon:10.3.0] /Users/andysmith/.gradle/caches/8.9/transforms/81e6240fd54d22ba53e02bd86ec25f87/transformed/FtcCommon-10.3.0/AndroidManifest.xml:11:5-13:35
